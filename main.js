@@ -10,6 +10,22 @@
 
 
 // Some example variables
-let it_is_christmas = false
-let teaching_partner = "Mr. Squirrel"
-let number_of_students = 27
+let length = 10
+let width = 5
+let area = length*width
+
+console.log(area)
+console.log("Area:", area)
+
+let first_name="Santa"
+let last_name="Claws"
+last_name ="Claus"
+console.log("I still belive in", first_name, last_name+".")
+
+console.log(typeof area)
+console.log(typeof first_name)
+
+const pi = 3.14
+let rad = 50
+let circ_area = pi*rad
+console.log(circ_area)
